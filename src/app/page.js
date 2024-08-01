@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function page() {
-  return (
-    <div className='text-3xl' >page</div>
-  )
+  return <h1 className="text-3xl text-red-500">Home</h1>;
 }
